@@ -7,7 +7,7 @@ import Layout from './components/Layout';
 import ScrollToTop from './components/ScrollToTop';
 
 // Pages
-import HomePage from './pages/HomePage';
+import HomePage from './pages/HomePage.tsx';
 import AboutPage from './pages/AboutPage';
 import JoinPage from './pages/JoinPage';
 import EventsPage from './pages/EventsPage';
